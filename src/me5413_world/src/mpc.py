@@ -203,11 +203,11 @@ def path_callback(msg):
     p_ref = path_msg[start_n:start_n+N, :]
 
     global dt
-    if j > 10:
+    if j > start_n - 1:
         dt = p_len / min(j-10, 5) / velocity
 
     global omega_ref
-    if j > 11:
+    if j > start_n:
         omega_ref = domega / min(j-10, 3) / dt
 
 
