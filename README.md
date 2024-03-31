@@ -1,6 +1,8 @@
 # ME5413_Planning_Project
+## Assignment completed by Group 21 (Li Hongyi, Lyu Le, Pan Yongzhou)
+Please run the repository the same way as the readme of the original project ^_^
 
-NUS ME5413 Autonomous Mobile Robotics Planning Project
+## NUS ME5413 Autonomous Mobile Robotics Planning Project
 
 > Authors: [Ziggy](https://github.com/ziggyhuang) and [Shuo](https://github.com/SS47816)
 
