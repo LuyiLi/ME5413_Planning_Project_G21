@@ -1,0 +1,24 @@
+A = 2.5, B = 2.5, Vel = 1
+RMSE：  x    yaw   speed
+MPC(control cost)
+    0.16   3.71   0.40
+MPC(control difference cost)
+    0.08   6.14   0.25
+
+A = 2.5, B = 2.5, Vel = 0.5
+MPC(control cost)
+    0.12   3.34   0.19
+MPC(control difference cost)
+    0.11   3.61   0.11
+
+A = 8, B = 8, Vel = 0.5
+MPC(control cost)
+    0.2   0.87   0.14
+MPC(control difference cost)
+    0.2   0.75   0.13
+
+A = 8, B = 8, Vel = 1
+MPC(control cost)
+    0.25   1.12   0.22
+MPC(control difference cost)
+    0.25   0.97   0.17
