@@ -8,7 +8,7 @@ pip install casadi
 
 Then, please run the repository the same way as the readme of the original project ^_^
 
-### The following is the original `README` file
+## The following is the original `README` file
 
 ## NUS ME5413 Autonomous Mobile Robotics Planning Project
 
