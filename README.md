@@ -1,6 +1,6 @@
 # ME5413_Planning_Project
 ## Assignment completed by Group 21 (Li Hongyi, Lyu Le, Pan Yongzhou)
-Before running, please install the CasADi python library with the default python3 env using:
+Before running, please install the CasADi python library within the default python3 env using:
 
 ```
 pip install casadi
