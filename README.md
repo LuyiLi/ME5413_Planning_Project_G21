@@ -1,10 +1,14 @@
 # ME5413_Planning_Project
 ## Assignment completed by Group 21 (Li Hongyi, Lyu Le, Pan Yongzhou)
-Before running, please install the CasADi python library using:
+Before running, please install the CasADi python library with the default python3 env using:
 
+```
 pip install casadi
+```
 
 Then, please run the repository the same way as the readme of the original project ^_^
+
+### The following is the original `README` file
 
 ## NUS ME5413 Autonomous Mobile Robotics Planning Project
 
